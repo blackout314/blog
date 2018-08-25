@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Whoami
-permalink: /whoami/
+title: About
+permalink: /about/
 ---
 
 Some information about you! I'll write this in the future!
